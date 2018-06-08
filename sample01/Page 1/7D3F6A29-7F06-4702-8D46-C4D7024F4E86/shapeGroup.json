@@ -1,10 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "BAF4EA34-2AE9-494A-8BF1-41C7011BF8D3",
+  "do_objectID": "7D3F6A29-7F06-4702-8D46-C4D7024F4E86",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "38B0B660-4E2F-4D0F-A4EE-C374CED3F8A8",
+    "do_objectID": "54BE105F-896A-43CB-983A-22C458BA9F25",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "36FE6F65-13E3-4007-A413-08156A49876A",
+    "do_objectID": "1A1FBBD7-76AE-423E-89DD-A021F9B803A2",
     "height": 193,
     "width": 201,
-    "x": 581,
-    "y": 120
+    "x": 385,
+    "y": 245
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,7 +31,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "CA083A1F-4B7E-4A4D-9163-26F660786E07"
+      "id": "7BF8A42E-0F1E-4229-94E9-3490392D0C3A"
     }
   ],
   "name": "Rectangle Copy 2",
@@ -58,7 +58,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "5B768CF2-B5DD-4263-94D0-2D6587690DB3",
+    "do_objectID": "8F2DA454-13E6-46B3-8803-5C94B4578794",
     "endDecorationType": 0,
     "fills": [
       {
