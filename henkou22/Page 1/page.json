@@ -1,6 +1,6 @@
 {
   "_class": "page",
-  "do_objectID": "0e66c0d0-69f1-11e8-9535-2beca57d0fec",
+  "do_objectID": "27c3ddf0-69f2-11e8-9535-2beca57d0fec",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -34,15 +34,11 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "2110BE66-F70A-4F52-B246-BB4DE763C14C"
+      "id": "B3C7F0EB-7321-4413-AC2B-D2350AD310BD"
     },
     {
-      "class": "shapeGroup",
-      "id": "BAF4EA34-2AE9-494A-8BF1-41C7011BF8D3"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "13BD1736-5050-432F-B466-53FED503E8E2"
+      "class": "text",
+      "id": "7AE10E6C-E4CA-498C-9B92-7AF790A250EF"
     }
   ],
   "name": "Page 1",
